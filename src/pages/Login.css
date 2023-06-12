@@ -1,0 +1,15 @@
+.loginCont {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.inputName {
+  background-color: rgb(95, 226, 145);
+  width: 300px;
+}
+
+.loginCont > button {
+  color: green;
+}
+

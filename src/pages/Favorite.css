@@ -1,0 +1,11 @@
+.favContainer {
+  align-items: center;
+  background-color: rgb(161, 238, 206);
+  border: 1px solid rgb(75, 75, 75);
+  border-radius: 30px;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  width: 500px;
+}

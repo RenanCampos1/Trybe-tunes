@@ -1,0 +1,59 @@
+.search {
+  align-items: center;
+  background-color: rgb(43, 194, 144);
+  display: flex;
+  flex-direction: row;
+  height: 40px;
+  justify-content: center;
+  justify-items: center;
+  margin-bottom: 100px;
+  margin-left: 10%;
+  margin-top: 20px;
+  width: 75%;
+}
+
+.inputSearch {
+  width: 69vw;
+}
+
+.buttonSearch {
+  background-color: rgb(14, 94, 67);
+  color: white;
+}
+
+.notFound {
+  color: rgb(14, 94, 67);
+  font-size: 20px;
+  text-align: center;
+}
+
+.cards {
+  align-items: center;
+  border: 1px solid rgb(14, 94, 67);
+  border-radius: 30px;
+  display: flex;
+  height: 400px;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 10px;
+  width: 250px;
+}
+
+.cardContainer {
+  align-items: center;
+  display: flex;
+  flex-flow: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 10px;
+  position: relative;
+}
+
+.results {
+  color: rgb(14, 94, 67);
+  font-size: 20px;
+  position: absolute;
+  text-align: center;
+  top: -80px;
+}
+

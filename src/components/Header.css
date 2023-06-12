@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap') ;
+
+.headerContainer {
+  background-color: rgb(43, 194, 144);
+  display: flex;
+  flex-direction: column;
+}
+
+.cabecalho {
+  align-items: center;
+  display: flex;
+  height: 170px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.tunes {
+  color: rgb(14, 92, 66);
+  font-family: Dosis , sans-serif;
+  font-size: 60px;
+  margin-left: 640px;
+  margin-top: 100px;
+  position: absolute;
+}
+
+.username {
+  background-color: rgb(14, 94, 67);
+  border-radius: 50px;
+  color: white;
+  font-size: 40px;
+  margin-right: 70px;
+  padding: 10px 40px;
+}
+
+.linksNav {
+  background-color: rgb(14, 94, 67);
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  height: 60px;
+  justify-content: space-around;
+  margin-top: 20px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+

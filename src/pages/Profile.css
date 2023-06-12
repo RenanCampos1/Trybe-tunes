@@ -1,0 +1,19 @@
+.profileCont {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.profile {
+  border: 1px solid black;
+  height: 400px;
+  margin: 30px;
+  width: 400px;
+}
+
+.editButton {
+  font-size: 30px;
+  position: absolute;
+  right: 30px;
+  top: 300px;
+}
